@@ -72,6 +72,3 @@ jaydeepguptagermany@gmail.com
 
 
 
-https://github.com/user-attachments/assets/7c7b6be4-27a9-4e68-b67c-e79222db565b
-
-
