@@ -67,6 +67,5 @@ If you have questions regarding this Privacy Policy, please contact:
 
 jaydeepguptagermany@gmail.com
 
-
 ## microphone permission
-<video src="./assets/allow-permissions.mp4" width="100%" controls></video>
+<video src="./assets/allow permissions.mp4" width="100%" controls></video>
