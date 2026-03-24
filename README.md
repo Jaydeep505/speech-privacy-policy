@@ -67,6 +67,7 @@ If you have questions regarding this Privacy Policy, please contact:
 
 jaydeepguptagermany@gmail.com
 
+## FOREGROUND_SERVICE_MICROPHONE permission (video clip)
 https://github.com/user-attachments/assets/user-permissions
 
 
