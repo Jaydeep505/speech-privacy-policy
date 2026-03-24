@@ -66,3 +66,8 @@ Updates will be reflected by changing the “Last updated” date.
 If you have questions regarding this Privacy Policy, please contact:
 
 jaydeepguptagermany@gmail.com
+
+https://github.com/user-attachments/assets/user permissions
+
+
+
