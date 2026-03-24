@@ -35,7 +35,7 @@ Audio recordings are **not sent to any server** and are not shared with the deve
 Speech requests only the permissions necessary for core functionality:
 
 * Microphone permission – to capture speech input
-* Storage permission – to save transcriptions locally
+* Notification enable - to notify running app in background
 
 Users can revoke these permissions at any time from device settings.
 
